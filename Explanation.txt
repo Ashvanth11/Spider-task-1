@@ -1,0 +1,38 @@
+SPIDER TASK 1
+
+TASK 1(A)
+-take in the binary string and its length
+-convert it into decimal
+-find the numbers immediately before and after the given number.(the difference between them is minimum)
+-convert them into binary
+-print them
+
+TASK 1(B)
+-take in a string of letters and its length
+-create a variable(ans) with initial value as 0. increase it by 1 whenever we find a degree of symmetry
+-find the mid index of the string 
+-define a function(check()) compares the first half of the string to the second half of the string,letter by letter
+-call the function
+-if symmetrical, divide the mid index by half and call the check() function again
+-repeat it using a while loop as long as the string can no longer be broken into symmetrical parts
+-print the answer(ans)
+
+TASK 1(C)
+-take in the values
+-create a variable(rf) and set it to initial amount(r)
+-create a nested if-else statement to increase rf by x in successful days and decrease it by y in unsuccessful days
+-place it under a for loop with range to check it for all the days
+-compare rf to r and print the final answer
+
+TASK 1(D)
+-def functions r1() and r2() to print '*'(character) and ' '(space) respectively
+-define funtion pattern()
+-call r1() to print first line
+-create two variables(k,l) and a while loop to print the remaing lines till the mid line which has just two '*'
+-call the functions in the order: r1(),r2(),r1() since each line is made up of '*', space and then '*' again
+-increase/decrease k,l accordingly
+-create another while loop and two variables(u,v) to print the rest of the lines except the last line
+-call r1() to print the last line
+-take in the number of test cases
+-take in the size of each test case and store it in a list(a[]) using for loop
+-call pattern() for each test case using for loop   
