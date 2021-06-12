@@ -1,5 +1,0 @@
-i take in the binary string and its length
-convert it into decimal
-find the numbers immediately before and after the given number.(the difference between them is minimum)
-convert them into binary
-print them
