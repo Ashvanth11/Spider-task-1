@@ -1,1 +1,1 @@
-# Spider algos task-1
+#  Algos task-1
