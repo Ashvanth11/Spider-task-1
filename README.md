@@ -1,7 +1,6 @@
 # Algos task-1
 ## Questions:
-**A)** 
-
+***A)*** 
 Sri Harsha is a very curious fellow. He started to wonder about binary numbers and how you can represent them as strings. But, due to his exceptional nature, this was not enough for him. He wondered if a binary string could be decomposed into the average of two different binary strings of equal length as the original string.
 
 If there are multiple answers, you need to print the strings that make the differnce of 2 numbers minimum.
@@ -28,8 +27,8 @@ Otherwise, output 2 space-separated strings with the first string being the less
 The strings should obey the conditions prescribed above.
 <br />
 <hr />
-**B)**
 
+***B)*** 
 Degree of symmetry is defined as the numbers of times you can divide (if can divide) a string such that both the remaining half are equal to each other.
 
 **Examples:**  
@@ -53,8 +52,8 @@ The String consists of lowercase Alphabets Only.
 Print an Integer denoting the Degree of Symmetry.
 <br />
 <hr />
-***C)***
 
+***C)*** 
 The  **SPIDER ALGO TEAM**  members have a strange connection with pizzas and the success of the workshop on that day. We consider a duration of workshop be n days each numbered from  **1**  to  **n**. You are given following information about each day:
 
 1.  Whether they have a workshop on day i or not.
@@ -85,9 +84,9 @@ The third line contains the sequence of integers s 1 , s 2 , ..., s n separated 
 · Print a single line containing the string “promoted”(without quotes) if the money the team earns is greater than their initial amount. · Print a single line containing the string “demoted”(without quotes) if the money is lesser than their initial amount. · Print “no change” otherwise.
 <br />
 <hr />
-***D)***
 
-Priya likes to play with numbers. One day Priya decides to assign a task to her mentee Tanya. You have to help Tanya to complete this task. Task is as follows - Priya gives sanya an integer  _N_  which is always a odd number. Priya wants Tanya to make a pattern which consists of  _N_  rows and  _N_  columns .Priya being Priya asked her to make pattern which will consist of  ' '(space)  and  * (character)  only. For making Tanya understand the type of pattern she wants Priya gave her a sample input and output.Your task is to Help tanya print the pattern.
+***D)*** 
+Priya likes to play with numbers. One day Priya decides to assign a task to her mentee Tanya. You have to help Tanya to complete this task. Task is as follows - Priya gives sanya an integer  _N_  which is always a odd number. Priya wants Tanya to make a pattern which consists of  _N_  rows and  _N_  columns .Priya being Priya asked her to make pattern which will consist of  **' '(space)**  and  ***(character)**  only. For making Tanya understand the type of pattern she wants Priya gave her a sample input and output.Your task is to Help tanya print the pattern.
 
 **Input Format**
 
@@ -105,12 +104,9 @@ Where ‘T’ is the number of test cases, ‘N’ is the size of the pattern. �
 **Output Format**
 
 For each test case, print the pattern.
-<br />
-<br />
-
 ## Explanation:
 <p align="justify">
-**ALGOS TASK 1**
+<h3>ALGOS TASK 1</h3>
 
 *TASK 1-A*
 - take in the binary string and its length
@@ -151,4 +147,5 @@ For each test case, print the pattern.
 </p>
 <br />
 <br />
+
 > Done by: Ashvanth (110120017)
